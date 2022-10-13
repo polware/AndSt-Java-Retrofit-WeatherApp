@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="detalles">Detalles:</string>
+    <string name="humedad">Humedad</string>
+    <string name="temp_max">Temp. Max.</string>
+    <string name="temp_min">Temp. Min.</string>
+    <string name="presion">Presión</string>
+    <string name="viento">Viento</string>
+</resources>
